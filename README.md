@@ -1,1 +1,1 @@
-# Yandex-CV-Train
+# Yandex-CV-Training
