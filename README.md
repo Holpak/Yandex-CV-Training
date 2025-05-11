@@ -29,6 +29,6 @@ It includes:
     *   KNN on raw data.
     *   Logistic Regression on raw data.
 5.  **Ensemble Methods (Attempted, Incomplete):**
-    *   Pipelines with PCA and AdaBoost, GBM, Random Forest, Extra Trees (encountered code error).
+    *   Pipelines with PCA and AdaBoost, GBM, Random Forest, Extra Trees
 6.  **Final Prediction:**
     *   Using the best-tuned SVC model on scaled test data.
