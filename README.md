@@ -40,3 +40,7 @@ It includes:
 1. **Prepare image (Crop & Resize)**
 2. **Extract features (Last-layer-freezed ResNet50)**
 3. **Find similarity**
+
+## hw_sobel_and_simple_hog.ipynb (https://contest.yandex.ru/contest/75229/problems/A/)
+
+## hw_panorama_matching_.ipynb (https://contest.yandex.ru/contest/75230/problems/)
