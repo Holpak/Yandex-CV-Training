@@ -32,3 +32,11 @@ It includes:
     *   Pipelines with PCA and AdaBoost, GBM, Random Forest, Extra Trees
 6.  **Final Prediction:**
     *   Using the best-tuned SVC model on scaled test data.
+
+## image_similarity.ipynb (https://contest.yandex.ru/contest/75233/problems/B/)
+
+**Approaches:**
+
+1. **Prepare image (Crop & Resize)**
+2. **Extract features (Last-layer-freezed ResNet50)**
+3. **Find similarity**
