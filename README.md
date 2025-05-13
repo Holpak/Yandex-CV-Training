@@ -44,3 +44,10 @@ It includes:
 ## hw_sobel_and_simple_hog.ipynb (https://contest.yandex.ru/contest/75229/problems/A/)
 
 ## hw_panorama_matching_.ipynb (https://contest.yandex.ru/contest/75230/problems/)
+
+
+## parkinson_prediction.ipynb
+
+**Task:** Using patient parameters (gender, age, and Parkinson's type) along with time series data of hand movements, predict which standard Parkinson's test the patient is executing.
+
+**Approache:** Hybrid CNN-RNN network + Attention layer.
